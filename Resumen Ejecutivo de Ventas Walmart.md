@@ -83,7 +83,13 @@ El dashboard es la hoja donde los diferentes stakeholders pueden filtrar por su 
 4.2.1 Asigné el nombre Ventas x metro cuadrado a un conjunto de celdas combinadas donde debajo de él devulve el valor de la columna ventasxmetro2.  
 
 4.2.2 Asigné el nombre Participación por departamento a un conjunto de celdas combinadas donde debajo de él devulve el valor de la columna SUM of ventas_semanales.  
-<img width="1164" height="160" alt="image" src="https://github.com/user-attachments/assets/9b46afae-c51e-4f37-a183-019c67d5523d" />
+<img width="1164" height="160" alt="image" src="https://github.com/user-attachments/assets/9b46afae-c51e-4f37-a183-019c67d5523d" />  
+<br>  
+4.3 Formato de los KPIs  
+
+Utilicé un formato condicional para resaltar los valores (por ejemplo: participación menor a 5% en rojo).
+<img width="1353" height="205" alt="image" src="https://github.com/user-attachments/assets/215525c0-ed03-4279-82c8-779457759bb8" />
+
 
 
  
