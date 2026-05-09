@@ -69,9 +69,8 @@ Salida esperada: Tabla dinámica con 4 columnas: nombre_dept, SUM of ventas_sema
 <img width="376" height="336" alt="image" src="https://github.com/user-attachments/assets/c8d17f48-02b2-4ba2-bafb-56b31d555cc0" />
 <br>
 4.- Dashboard  
-<br>
-El dashboard es la hoja donde los diferentes stakeholders pueden filtrar por su departamento y ver sus KPIs al instante.  
 
+El dashboard es la hoja donde los diferentes stakeholders pueden filtrar por su departamento y ver sus KPIs al instante.  
 
 4.1 Creé una celda de selección (entrada del usuario) donde con un menú desplegable asigné los nombres de los departamentos.  
 <img width="255" height="111" alt="image" src="https://github.com/user-attachments/assets/72ddde93-0973-4046-b6fd-5cec5ae408aa" />
