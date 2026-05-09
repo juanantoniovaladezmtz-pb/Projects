@@ -26,10 +26,12 @@ Añadí a clean_ventas las columnas tipo, tamaño, nombre_dept desde los otros d
 
 Esto mediante
 
-=BUSCARV(valor_buscado; rango_tabla; índice_columna; FALSO)
+=BUSCARV(valor_buscado; rango_tabla; índice_columna; FALSO)  
 
 Salida esperada: tabla consolidada con todas las columnas clave: tienda | Dept | Fecha | ventas_semanales | esferiado | semana_limpia| tipo | tamaño | nombre_dept.
 <img width="984" height="236" alt="image" src="https://github.com/user-attachments/assets/34037c5c-7236-4a3f-8df0-8808ba895acb" />
+<br>
+3.- Resumen con tablas dinámicas
 
 
 
