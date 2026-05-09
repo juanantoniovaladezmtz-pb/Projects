@@ -31,9 +31,8 @@ Esto mediante
 Salida esperada: tabla consolidada con todas las columnas clave: tienda | Dept | Fecha | ventas_semanales | esferiado | semana_limpia| tipo | tamaño | nombre_dept.
 <img width="984" height="236" alt="image" src="https://github.com/user-attachments/assets/34037c5c-7236-4a3f-8df0-8808ba895acb" />
 <br>
-3.- Resumen con tablas dinámicas
-<br>
-<br>
+3.- Resumen con tablas dinámicas  
+
 Construí una tabla dinámica para cada KPI.
 
 Por qué: Las tablas resumen fueron la fuente para un Dashboard dinámico.
@@ -57,6 +56,11 @@ KPI 1: Ventas por m²
     
 Salida esperada: Tabla dinámica con 4 columnas: nombre_dept, SUM of ventas_semanales, AVERAGE of tamaño y ventasxmetro2
 <img width="604" height="335" alt="image" src="https://github.com/user-attachments/assets/5b93020c-a9b6-48f4-a4fe-ce0254a603c9" />
+<br>
+KPI 2: Participación por departamento  
+    Sumé las ventas semanales por departamento en el 2012 mostradas como un % del total.  
+    Mostré SUM(ventas) como un % del total.  
+    Filtré por las ventas del 2012.
 
 
 
