@@ -2,9 +2,9 @@ https://docs.google.com/spreadsheets/d/1wnLBjDlJ_NY4dBWBa2UR-FisdTJ2sv1EXWQpxY7n
 
 Los objetivos del proyecto fueron:
     Preparar datos para el análisis (limpieza, enriquecimiento, documentación).  
-    Construir KPIs clave para evaluar la eficiencia y la participación.
+    Construir KPIs clave para evaluar la eficiencia y la participación.  
     Crear dashboards dinámicos con filtros y visualizaciones útiles para los stakeholders.  
-    Comunicar hallazgos ejecutivos mediante el método C→F→I.
+    Comunicar hallazgos ejecutivos mediante el método C→F→I.  
     Aplicar QA para asegurar la calidad y trazabilidad del análisis.
 
 1.- LIMPIAR: preparar los datasets para su análisis.
