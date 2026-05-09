@@ -20,6 +20,7 @@ Salida esperada: la hoja ventas_clean lista para su análisis con las columnas: 
 <img width="620" height="222" alt="image" src="https://github.com/user-attachments/assets/3e3f743d-e48f-4afc-b50e-da46cfd98f4d" />
 <br>
 2.- Enriquecimiento
+
 Añadí a clean_ventas las columnas tipo, tamaño, nombre_dept desde los otros datasets (raw_tiendas, raw_departamento, raw_ventas), con el fin de calcular la eficiencia y crear reportes legibles.
 
 Esto mediante
