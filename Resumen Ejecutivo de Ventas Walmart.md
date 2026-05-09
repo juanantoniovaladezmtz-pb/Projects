@@ -89,6 +89,12 @@ El dashboard es la hoja donde los diferentes stakeholders pueden filtrar por su 
 
 Utilicé un formato condicional para resaltar los valores (por ejemplo: participación menor a 5% en rojo).
 <img width="1353" height="205" alt="image" src="https://github.com/user-attachments/assets/215525c0-ed03-4279-82c8-779457759bb8" />
+<br>  
+4.4 Visualizar los KPIs  
+KPI 1: Ventas por metro cuadrado  
+Creé un gráfico de barras que muestra ventas/m² por departamento, ordenando la tabla dinámica de mayor a menor para que las barras se muestren en ese orden y resalten la eficiencia.
+<img width="381" height="496" alt="image" src="https://github.com/user-attachments/assets/a8810223-75f4-482a-a4ed-3e7e73d0f403" />
+
 
 
 
