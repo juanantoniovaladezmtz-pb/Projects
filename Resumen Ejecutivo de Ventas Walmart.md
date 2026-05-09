@@ -33,6 +33,7 @@ Salida esperada: tabla consolidada con todas las columnas clave: tienda | Dept |
 <br>
 3.- Resumen con tablas dinámicas
 <br>
+<br>
 Construí una tabla dinámica para cada KPI.
 
 Por qué: Las tablas resumen fueron la fuente para un Dashboard dinámico.
