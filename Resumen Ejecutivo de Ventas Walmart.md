@@ -107,7 +107,20 @@ Cada respuesta debe incluye evidencia (una visualización) que la respalda.
 <img width="817" height="363" alt="image" src="https://github.com/user-attachments/assets/4fb19882-cce0-42df-9a10-edcce272504e" />  
 
 <img width="506" height="580" alt="image" src="https://github.com/user-attachments/assets/2f7a745a-09be-4026-ada2-5de8ea9a6111" />  
-6.- QA (Quality Assurance)
+  
+6.- QA (Quality Assurance)  
+
+Creé una hoja de cálculo extra llamada Readme donde:  
+
+    Documenté el proyecto y verifiqué la integridad y exactitud de los datos, los cálculos y el dashboard.  
+    Documenté las comprobaciones, resultados y acciones tomadas en la hoja.
+
+Por qué: Para que cualquier compañero pueda entender qué contiene el archivo y cómo lo construí.
+
+<img width="1082" height="634" alt="image" src="https://github.com/user-attachments/assets/20c7034e-2a93-4e21-8828-9898456c64b2" />  
+
+
+
 
 
 
