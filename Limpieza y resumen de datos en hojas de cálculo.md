@@ -1,4 +1,4 @@
-Identificqué y documenté problemas de en un dataset real donde se almacenan datos de VentaExpress que vende productos de tecnología (laptops, teléfonos, auriculares, tablets) a través de su
+Identifiqué y documenté problemas de en un dataset real donde se almacenan datos de VentaExpress que vende productos de tecnología (laptops, teléfonos, auriculares, tablets) a través de su
 plataforma online en distintas ciudades de México y Colombia, haciendo un análisis enfatico en las ventas de Octubre - Diciembre 2024 (i.e. 4° trimestre de 2024).
 
 Apliqué técnicas de limpieza sistemáticas y justificadas para organizar datos siguiendo las mejores prácticas profesionales, y así poder calcular métricas clave relevantes para la toma de decisiones
