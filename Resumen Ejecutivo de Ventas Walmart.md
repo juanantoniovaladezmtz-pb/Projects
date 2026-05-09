@@ -11,3 +11,4 @@ LIMPIAR: preparar los datasets para su análisis.
 
 Copié la hoja raw_ventas y la renombré clean_ventas, marcando esta pestaña en verde.
 <img width="480" height="36" alt="image" src="https://github.com/user-attachments/assets/d74f902f-0c2d-4801-82d4-f936404096c7" />
+</n>
