@@ -95,7 +95,7 @@ Utilicé un formato condicional para resaltar los valores (por ejemplo: particip
 4.4.1 KPI 1: Ventas por metro cuadrado  
 <br>  
 Creé un gráfico de barras que muestra ventas/m² por departamento, ordenando la tabla dinámica de mayor a menor para que las barras se muestren en ese orden y resalten la eficiencia.
-<img width="381" height="496" alt="image" src="https://github.com/user-attachments/assets/a8810223-75f4-482a-a4ed-3e7e73d0f403" />
+<img width="520" height="496" alt="image" src="https://github.com/user-attachments/assets/a8810223-75f4-482a-a4ed-3e7e73d0f403" />
 
 
 
