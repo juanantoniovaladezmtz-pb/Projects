@@ -4,8 +4,7 @@ plataforma online en distintas ciudades de México y Colombia, haciendo un anál
 Apliqué técnicas de limpieza sistemáticas y justificadas para organizar datos siguiendo las mejores prácticas profesionales
 
 <img width="655" height="174" alt="image" src="https://github.com/user-attachments/assets/b5b6c49c-8bf0-4f59-8933-afda93f1961f" />  
-
-<img width="801" height="173" alt="image" src="https://github.com/user-attachments/assets/78eea3f4-956e-450e-8deb-6638afdd27ee" />
+/n<img width="801" height="173" alt="image" src="https://github.com/user-attachments/assets/78eea3f4-956e-450e-8deb-6638afdd27ee" />
 
 
 
