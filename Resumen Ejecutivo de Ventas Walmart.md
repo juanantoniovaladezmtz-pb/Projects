@@ -99,7 +99,11 @@ Creé un gráfico de barras que muestra ventas/m² por departamento, ordenando l
 4.4.2 KPI 2: Participación del Departamento  
 <br>  
 Creé un gráfico de barras apiladas que muestra la proporción de cada departamento sobre el total de ventas. Cada departamento tiene un color distinto, así poder ver no solo la participación individual, sino también la comparación con otros.
-<img width="713" height="498" alt="image" src="https://github.com/user-attachments/assets/f8f37137-3609-422d-b80f-ad5b2013075e" />
+<img width="713" height="498" alt="image" src="https://github.com/user-attachments/assets/f8f37137-3609-422d-b80f-ad5b2013075e" />  
+5.- Resumen ejecutivo (C → F → I)  
+
+En una hoja de cálculo extra llamada Resumen, redacte un informe ejecutivo corto y accionable que responde las 2 preguntas de negocio usando el método Context → Finding → Implication (C→F→I).
+Cada respuesta debe incluye evidencia (una visualización) que la respalda.
 
 
 
