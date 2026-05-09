@@ -41,8 +41,8 @@ KPI 1: Ventas por m²
 
 1.- Creé una tabla agrupada por departamento que contiene:  
 
-    suma de ventas semanales del 2012.  
-    promedio del tamaño.  
+    Suma de ventas semanales del 2012.  
+    Promedio del tamaño.  
 
 2.- Agregué un campo calculado:  
 
@@ -58,9 +58,16 @@ Salida esperada: Tabla dinámica con 4 columnas: nombre_dept, SUM of ventas_sema
 <img width="604" height="335" alt="image" src="https://github.com/user-attachments/assets/5b93020c-a9b6-48f4-a4fe-ce0254a603c9" />
 <br>
 KPI 2: Participación por departamento  
-    Sumé las ventas semanales por departamento en el 2012 mostradas como un % del total.  
-    Mostré SUM(ventas) como un % del total.  
-    Filtré por las ventas del 2012.
+
+1.- Creé una tabla agrupada por departamento que contiene:  
+
+    Suma de ventas semanales por departamento en el 2012 mostradas como un % del total.  
+    
+2.- Filtré por las ventas exclusivamente del año 2012  
+
+    Añadí un filtro:  Mostrar solo las filas en la columna semana_limpia que contenga el texto: 2012  
+<img width="376" height="336" alt="image" src="https://github.com/user-attachments/assets/c8d17f48-02b2-4ba2-bafb-56b31d555cc0" />
+
 
 
 
