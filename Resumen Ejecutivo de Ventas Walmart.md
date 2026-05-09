@@ -37,37 +37,55 @@ Construí una tabla dinámica para cada KPI.
 
 Por qué: Las tablas resumen fueron la fuente para un Dashboard dinámico.
 
-KPI 1: Ventas por m²  
+3.1 KPI 1: Ventas por m²  
 
-1.- Creé una tabla agrupada por departamento que contiene:  
+3.1.1 Creé una tabla agrupada por departamento que contiene:  
 
     Suma de ventas semanales del 2012.  
     Promedio del tamaño.  
 
-2.- Agregué un campo calculado:  
+3.1.2 Agregué un campo calculado:  
 
     ventasxmetro2, el cual se obtuvo con la instrucción:  
     =SUMA(ventas_semanales) / AVERAGE(tamaño)  
 
 
-3.- Filtré por las ventas exclusivamente del año 2012  
+3.1.3 Filtré por las ventas exclusivamente del año 2012  
 
     Añadí un filtro:  Mostrar solo las filas en la columna semana_limpia que contenga el texto: 2012  
     
 Salida esperada: Tabla dinámica con 4 columnas: nombre_dept, SUM of ventas_semanales, AVERAGE of tamaño y ventasxmetro2
 <img width="604" height="335" alt="image" src="https://github.com/user-attachments/assets/5b93020c-a9b6-48f4-a4fe-ce0254a603c9" />
 <br>
-KPI 2: Participación por departamento  
+3.2 KPI 2: Participación por departamento  
 
-1.- Creé una tabla agrupada por departamento que contiene:  
+3.2.1 Creé una tabla agrupada por departamento que contiene:  
 
     Suma de ventas semanales por departamento en el 2012 mostradas como un % del total.  
     
-2.- Filtré por las ventas exclusivamente del año 2012  
+3.2.2 Filtré por las ventas exclusivamente del año 2012  
 
     Añadí un filtro:  Mostrar solo las filas en la columna semana_limpia que contenga el texto: 2012  
 <img width="376" height="336" alt="image" src="https://github.com/user-attachments/assets/c8d17f48-02b2-4ba2-bafb-56b31d555cc0" />
+<br>
+4.- Dashboard  
+
+El dashboard es la hoja donde los diferentes stakeholders pueden filtrar por su departamento y ver sus KPIs al instante.  
 
 
+4.1 Creé una celda de selección (entrada del usuario) donde con un menú desplegable asigné los nombres de los departamentos.  
+<img width="255" height="111" alt="image" src="https://github.com/user-attachments/assets/72ddde93-0973-4046-b6fd-5cec5ae408aa" />
+
+4.2 Trajé los KPIs al dashboard para enlazar la selección (nombre departamento)  
+
+    Utilicé  
+    VLOOKUP/BUSCARV 
+
+4.2.1 Asigné el nombre Ventas x metro cuadrado a un conjunto de celdas combinadas donde debajo de él devulve el valor de la columna ventasxmetro2.  
+4.2.2 Asigné el nombre Participación por departamento a un conjunto de celdas combinadas donde debajo de él devulve el valor de la columna SUM of ventas_semanales.  
+<img width="1164" height="160" alt="image" src="https://github.com/user-attachments/assets/9b46afae-c51e-4f37-a183-019c67d5523d" />
+
+
+ 
 
 
