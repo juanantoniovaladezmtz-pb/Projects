@@ -13,8 +13,8 @@ Los objetivos del proyecto fueron:
 Copié la hoja raw_ventas y la renombré clean_ventas, marcando esta pestaña en verde.
 <img width="480" height="36" alt="image" src="https://github.com/user-attachments/assets/d74f902f-0c2d-4801-82d4-f936404096c7" />
 <br>
-Normalicé columnas ( Fecha, ventas_semanales).
-Fecha: Aseguré formato de fecha.
+Normalicé columnas ( Fecha, ventas_semanales).  
+Fecha: Aseguré formato de fecha.  
 ventas_semanales: Aseguré formato $ xxxx.xx (por ejemplo, $ 1005.05)
 
 Salida esperada: la hoja ventas_clean lista para su análisis con las columnas: tienda | Dept | Fecha | ventas_semanales | esferiado | semana_limpia.
