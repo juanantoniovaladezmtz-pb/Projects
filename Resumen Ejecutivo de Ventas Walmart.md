@@ -81,6 +81,7 @@ El dashboard es la hoja donde los diferentes stakeholders pueden filtrar por su 
     VLOOKUP/BUSCARV 
 
 4.2.1 Asigné el nombre Ventas x metro cuadrado a un conjunto de celdas combinadas donde debajo de él devulve el valor de la columna ventasxmetro2.  
+
 4.2.2 Asigné el nombre Participación por departamento a un conjunto de celdas combinadas donde debajo de él devulve el valor de la columna SUM of ventas_semanales.  
 <img width="1164" height="160" alt="image" src="https://github.com/user-attachments/assets/9b46afae-c51e-4f37-a183-019c67d5523d" />
 
