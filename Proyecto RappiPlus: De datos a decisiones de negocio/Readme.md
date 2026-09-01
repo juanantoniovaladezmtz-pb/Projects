@@ -12,3 +12,8 @@ Las dudas clave fueron:
 Para responder estas preguntas, trabajarás con datos de pedidos, catálogo y marketing.
 
 Con mi análisis se permitió entender el desempeño del servicio y detectar oportunidades concretas de mejora.
+
+### Proceso de proyecto  
+
+  <img width="571" height="507" alt="image" src="https://github.com/user-attachments/assets/a7d43e3b-b3a8-47fa-bda2-8d2bad58b224" />
+
