@@ -2,7 +2,7 @@
 
 RappiPlus es un servicio de suscripción dentro del ecosistema de Rappi diseñado para aumentar la frecuencia de compra y el valor generado por usuario.
 
-Sin embargo, el equipo de negocio no tiene claro si el servicio está cumpliendo su objetivo.
+Sin embargo, el equipo de negocio no tenía claro si el servicio está cumpliendo su objetivo.
 
 Las dudas clave fueron:
 
