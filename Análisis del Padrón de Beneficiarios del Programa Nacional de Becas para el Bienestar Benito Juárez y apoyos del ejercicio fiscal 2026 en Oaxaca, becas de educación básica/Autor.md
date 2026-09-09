@@ -1,6 +1,6 @@
 👤 Autor
 
-Juan Antonio Valadez Martínez
+# Juan Antonio Valadez Martínez
 
 Proyecto desarrollado como parte de un portafolio de análisis de datos y visualización de información.
 
