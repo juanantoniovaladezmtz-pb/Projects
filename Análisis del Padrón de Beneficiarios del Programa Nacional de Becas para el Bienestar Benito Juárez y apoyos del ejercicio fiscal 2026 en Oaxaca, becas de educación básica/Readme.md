@@ -150,22 +150,7 @@ Los diez municipios con mayor monto acumulado representan aproximadamente **18.6
 
 ---
 
-## 5. La concentración territorial aumenta conforme se amplía el grupo de municipios
-
-La participación acumulada del monto muestra el siguiente comportamiento:
-
-| Grupo de municipios | Participación acumulada |
-|---|---:|
-| Top 10 | 18.67% |
-| Top 20 | 29.87% |
-| Top 50 | 49.51% |
-| Top 100 | 65.92% |
-
-Este resultado permite observar que el monto no se concentra exclusivamente en unos cuantos municipios, sino que se distribuye entre un número amplio de unidades territoriales.
-
----
-
-## 6. El monto acumulado y la amplitud territorial representan dimensiones diferentes
+## 5. El monto acumulado y la amplitud territorial representan dimensiones diferentes
 
 La cantidad de localidades asociadas a un municipio presenta diferencias importantes.
 
