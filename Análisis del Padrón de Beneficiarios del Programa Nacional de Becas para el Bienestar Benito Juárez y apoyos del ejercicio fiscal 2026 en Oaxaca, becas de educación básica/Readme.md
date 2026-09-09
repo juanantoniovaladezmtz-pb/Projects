@@ -220,5 +220,3 @@ Control temporal basado en `fecha_alta`, utilizado para explorar la composición
 
 ---
 
-- `fecha_alta`
-
